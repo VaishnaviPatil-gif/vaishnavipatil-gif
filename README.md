@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am an Information Technology student focused on building practical skills through projects and continuous learning. I enjoy creating real-world solutions, exploring new technologies, and improving my problem-solving abilities. My goal is to grow into a skilled software developer and contribute to meaningful tech products.
 
+🌐 Portfolio: https://vaishnavipatil-gif.github.io/Personal-portfolio/
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vaishnavi_patil_.73?igsh=emt1aWRlZ3ZlczE5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaishnavi-patil-371bb2356/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Vaishnavi-Patil-1963) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavipatil8096@gmail.com) 
