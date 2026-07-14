@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaishnavi Patil</h1>
+<h1 align="center">Hi , I'm Vaishnavi Patil</h1>
 
 <h3 align="center">
 B.Tech IT'28 • Full-Stack & Backend Developer • AI Developer • Open Source Enthusiast
@@ -25,7 +25,7 @@ Currently working on:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 
