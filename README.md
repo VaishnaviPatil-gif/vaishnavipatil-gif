@@ -132,14 +132,6 @@ Real-time event-driven file organizer with multithreaded architecture, automatic
 🥈 2nd Place — Blind Coding
 
 ---
-
-## 🌐 Portfolio
-
-🔗 **Portfolio**
-
-https://vaishnavipatil-gif.github.io/Personal-portfolio/
-
----
 ## 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=VaishnaviPatil-gif&show_icons=true&theme=tokyonight)
