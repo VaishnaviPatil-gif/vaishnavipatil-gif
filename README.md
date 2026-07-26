@@ -132,15 +132,6 @@ Real-time event-driven file organizer with multithreaded architecture, automatic
 🥈 2nd Place — Blind Coding
 
 ---
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=VaishnaviPatil-gif&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviPatil-gif&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviPatil-gif&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
