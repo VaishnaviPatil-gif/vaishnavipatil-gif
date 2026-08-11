@@ -1,152 +1,78 @@
-<h1 align="center">Hi , I'm Vaishnavi Patil</h1>
+# Hi, I'm Vaishnavi Patil 👋
 
-<h3 align="center">
-B.Tech IT'28 • Full-Stack & Backend Developer • AI Developer • Open Source Enthusiast
-</h3>
+**B.Tech IT '28 · Backend & AI Engineer**
 
-<p align="center">
-Building AI-powered developer tools, distributed backend systems, and real-world products.
-</p>
+I build AI-powered developer tools and backend systems that solve real problems — a Git history analyzer that explains *why* code changed, an emergency snakebite routing platform, a career-readiness simulator.
 
----
-
-## 🚀 About Me
-
-I'm an Information Technology undergraduate passionate about designing scalable software and solving real-world problems using AI.
-
-Currently working on:
-
-- 🤖 AI-powered developer tools
-- ⚙️ Backend Engineering & Distributed Systems
-- 🌐 Full-Stack Web Applications
-- 🧠 LLM Integrations & Agentic AI
-- 📊 Database Design & System Architecture
-- 💻 Data Structures & Algorithms
+🎯 **Open to SDE / Backend / AI Engineering internships (Summer 2027)**
+📍 India · 📄 [Resume](ADD_RESUME_LINK) · 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-patil-371bb2356/) · ✉️ vaishnavipatil8096@gmail.com
 
 ---
 
-##  Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+**Languages** Java · Python · TypeScript · JavaScript · C++ · SQL
+**Backend** Node.js · Express · FastAPI · REST APIs · Prisma
+**Frontend** React · Tailwind CSS
+**Data** PostgreSQL · MySQL · SQLite
+**AI/ML** OpenAI · Claude · Gemini · Ollama · Embeddings · RAG · Prompt Engineering
+**Infra** Docker · Git · GitHub Actions · Postman
 
 ---
 
-### Frontend
+## 🚀 Featured Projects
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### [WhyCode](https://github.com/VaishnaviPatil-gif/WhyCode) — AI Git History Analyzer
+Explains *why* code changed by analyzing commits, diffs, and file evolution — cutting onboarding time on unfamiliar codebases.
+- Multi-provider LLM layer (OpenAI / Claude / Ollama) with a pluggable interface
+- Response caching to cut redundant API calls and cost
+- Ships as a GitHub Action for CI pipelines
 
----
+`Python` `LLM APIs` `GitHub Actions` `Caching`
 
-### Backend
+### [Capabl](https://github.com/VaishnaviPatil-gif/Capabl-AI-Career-Decision-Simulator) — AI Career Decision Simulator
+Analyzes resumes, projects, and interview performance to surface skill gaps with an explainable readiness score.
+- Semantic resume analysis using embeddings
+- AI-driven mock interviews with structured feedback
+- Type-safe Prisma/PostgreSQL data layer
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+`TypeScript` `React` `Node.js` `Prisma` `PostgreSQL`
 
----
+### [Antidote+](https://github.com/VaishnaviPatil-gif/Antidote) — Emergency Snakebite Response System
+Routes snakebite victims to the nearest hospital that actually has anti-venom in stock — a real gap in rural emergency care.
+- Real-time hospital anti-venom inventory tracking
+- Multilingual voice assistance for low-literacy users
+- Route optimization with Leaflet; mobile build via Capacitor
 
-### Databases & ORM
+`React` `FastAPI` `Gemini` `Leaflet` `Capacitor`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+### [NeuroSort](https://github.com/VaishnaviPatil-gif/NeuroSort) — Real-Time File Organizer
+Event-driven daemon that watches folders and auto-categorizes files as they land.
+- Multithreaded watcher architecture with collision handling
+- Undo history and dry-run mode for safe operation
+- Rule-based sorting configured via YAML
 
----
-
-### AI & ML
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-blue?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-6A5ACD?style=for-the-badge)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### 🔹 WhyCode
-AI-powered Git History Analyzer that explains code evolution using multiple LLM providers with intelligent caching and CI integration.
-
-**Tech:** Python • OpenAI • Claude • Ollama • GitHub Actions
-
----
-
-### 🔹 Capabl
-AI Career Decision Simulator with semantic resume analysis, explainable readiness scoring, and AI-powered mock interviews.
-
-**Tech:** TypeScript • React • Node.js • Prisma • PostgreSQL • LLM APIs
-
----
-
-### 🔹 Antidote+
-AI-powered emergency snakebite response system featuring multilingual voice assistance, real-time hospital inventory, and intelligent route optimization.
-
-**Tech:** React • FastAPI • Gemini • Leaflet • Capacitor
-
----
-
-### 🔹 NeuroSort
-Real-time event-driven file organizer with multithreaded architecture, automatic categorization, undo history, and YAML configuration.
-
-**Tech:** Python • Watchdog • Threading • YAML
+`Python` `Watchdog` `Threading` `YAML`
 
 ---
 
 ## 🏆 Achievements
 
-🥇 National Finalist — Productathon, DataForge & Ideathon (IIT Roorkee E-Summit 2026)
-
-🌍 Finalist — USAII Global Hackathon
-
-🚀 Finalist — MSME Idea Hackathon 2025
-
-💻 Smart India Hackathon 2025 Participant
-
-🏅 1st Place — Code Quest
-
-🥈 2nd Place — Blind Coding
+- 🥇 **National Finalist** — Productathon, DataForge & Ideathon, IIT Roorkee E-Summit 2026
+- 🌍 **Finalist** — USAII Global Hackathon
+- 🚀 **Finalist** — MSME Idea Hackathon 2025
+- 💻 **Smart India Hackathon 2025** — Participant
+- 🏅 **1st Place** — Code Quest · 🥈 **2nd Place** — Blind Coding
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub
 
-**LinkedIn**
-
-https://www.linkedin.com/in/vaishnavi-patil-371bb2356/
-
-**GitHub**
-
-https://github.com/VaishnaviPatil-gif
-
-**Email**
-
-vaishnavipatil8096@gmail.com
+<p>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=VaishnaviPatil-gif&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviPatil-gif&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</p>
 
 ---
 
-⭐ *Always building. Always learning. Always shipping.*
+<sub>⭐ Always building. Always learning. Always shipping.</sub>
