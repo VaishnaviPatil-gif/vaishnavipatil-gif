@@ -5,7 +5,7 @@
 I build AI-powered developer tools and backend systems that solve real problems — a Git history analyzer that explains *why* code changed, an emergency snakebite routing platform, a career-readiness simulator.
 
 🎯 **Open to SDE / Backend / AI Engineering internships (Summer 2027)**
-📍 India · 📄 [Resume](ADD_RESUME_LINK) · 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-patil-371bb2356/) · ✉️ vaishnavipatil8096@gmail.com
+📍 India  📄 [Resume](ADD_RESUME_LINK) · 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-patil-371bb2356/) · ✉️ vaishnavipatil8096@gmail.com
 
 ---
 
