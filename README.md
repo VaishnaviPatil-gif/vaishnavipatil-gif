@@ -1,12 +1,16 @@
-<!-- ===== ANIMATED HEADER ===== -->
+<!-- ===== ANIMATED SIGNATURE HEADER ===== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaishnavi%20Patil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20AI%20Engineer%20%7C%20B.Tech%20IT%20'28&descAlignY=55&descSize=18" alt="header"/>
+
+<img src="https://raw.githubusercontent.com/VaishnaviPatil-gif/vaishnavipatil-gif/main/signature.svg" width="480" alt="Vaishnavi Patil"/>
+
+### Backend & AI Engineer · B.Tech IT '28
+
 </div>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
   <a href="https://github.com/VaishnaviPatil-gif">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+AI-powered+developer+tools;Backend+Systems+%26+Distributed+Architecture;LLM+Integrations+%26+Agentic+AI;Always+building.+Always+shipping." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+AI-powered+developer+tools;Backend+Systems+%26+Distributed+Architecture;LLM+Integrations+%26+Agentic+AI;Always+building.+Always+shipping.&v=2" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,16 +29,13 @@
   <a href="mailto:vaishnavipatil8096@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
-  <a href="ADD_RESUME_LINK">
-    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white" alt="resume"/>
-  </a>
 </div>
 
 <br/>
 
 ---
 
-## 💫 About Me
+## About Me
 
 ```yaml
 name:      Vaishnavi Patil
@@ -44,7 +45,7 @@ location:  India
 
 currently_building:
   - AI-powered developer tools
-  - Distributed backend systems
+  - Backend systems
   - LLM integrations & agentic workflows
 
 focus_areas:
@@ -169,25 +170,6 @@ Event-driven daemon that watches folders and auto-categorizes files the moment t
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VaishnaviPatil-gif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&cache_seconds=86400" alt="stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=VaishnaviPatil-gif&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="streak"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviPatil-gif&layout=compact&langs_count=8&hide_border=true&title_color=6366F1&cache_seconds=86400" alt="top langs"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VaishnaviPatil-gif&bg_color=00000000&color=6366F1&line=6366F1&point=8B5CF6&area=true&hide_border=true" alt="activity graph"/>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=VaishnaviPatil-gif&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -203,7 +185,5 @@ Event-driven daemon that watches folders and auto-categorizes files the moment t
 <div align="center">
 
 ### ⭐ Always building. Always learning. Always shipping.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 
 </div>
