@@ -161,7 +161,7 @@ Event-driven daemon that watches folders and auto-categorizes files the moment t
 |:--:|:--|
 | 🥇 | **National Finalist** — Productathon, DataForge & Ideathon · IIT Roorkee E-Summit 2026 |
 | 🌍 | **Finalist** — USAII Global Hackathon |
-| 🚀 | **Finalist** — MSME Idea Hackathon 2025 |
+| 🚀 | **Finalist** — MSME Idea Hackathon 2026,2025 |
 | 💻 | **Participant** — Smart India Hackathon 2025 |
 | 🏅 | **1st Place** — Code Quest |
 | 🥈 | **2nd Place** — Blind Coding |
